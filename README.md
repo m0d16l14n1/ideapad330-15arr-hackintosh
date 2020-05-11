@@ -30,7 +30,7 @@ Possible to reach stable booting only with GenericUSBXHCI.kext, but we won't be 
 
 2) Graphics (lul, it has 7mb VRAM, so it's partially working, right? :D)
 3) Audio is glitching and desynced
-4) SMCAMDProcessor.kext is working (AMD Power Gadget + sensors, AMD Power tool is not working /*force close*/
+4) SMCAMDProcessor.kext is working (AMD Power Gadget + sensors, AMD Power tool is not working /*force close*/)
 
 What's not working:
 

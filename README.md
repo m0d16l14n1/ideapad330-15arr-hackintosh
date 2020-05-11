@@ -24,7 +24,7 @@ What's working (Catalina 10.15.4):
 What's partially working:
 
 1) USB (it has random stuck while booting, we still don't know how to fix it. We already did USB mapping, tried SSDT and kext variants - it still randomly stuck on booting. Will try some trick with DSDT patching, might work)
-Possible to reach stable booting only with GenericUSBXHCI.kext, but we will use USB tethering and no ports will appear for mapping
+Possible to reach stable booting only with GenericUSBXHCI.kext, but we won't be able to use USB tethering and no ports will appear for mapping (USB devices will work)
 
 `You might won't have that issue if you have another brand of laptop (HP, Acer, e.t.c, because we have already seen some laptops with no problems at all even without USB mapping. That issue is surely related to dirty DSDT of Lenovo`
 

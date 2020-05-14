@@ -1,6 +1,6 @@
 # Guide for unlocking InsydeH20 bios on your LENOVO IDEAPAD 330-15ARR (might work on other Lenovo with Insyde, but i am not sure and not responsible for any kind of bricks and other stuff)
 
-$ What you will need: 
+# What you will need: 
 
 1) UEFITool (not Alpha versions, only stable ex - https://github.com/LongSoft/UEFITool/releases/tag/0.28.0) 
 Note, that we will need only UEFITool, not other of UEFIPatch, Extract and whatsoever. 
@@ -9,7 +9,7 @@ Note, that we will need only UEFITool, not other of UEFIPatch, Extract and whats
 
 3) Hex editor with comparison function (that's is really needed, will make process easier, ex - HxD is okay)
 
-Let's start
+# Let's start
 
 1) Teardown your laptop, disconnect battery cable (I am usually removing it from laptop to be sure, it's really unplugged, lol)
 

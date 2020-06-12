@@ -6,7 +6,7 @@ For experiments or fun only. Not stable. At all. Possible to use for other lapto
 
 If you have any fixes related to that laptop - you are welcome
 
-Currently possible to install High Sierra (not recommended), Mojave and latest Catalina (10.15.4)
+Currently possible to install High Sierra (not recommended), Mojave and latest Catalina (10.15.6 beta)
 Possible to install High Sierra and Mojave with Clover, Catalina is bootable only with OpenCore
 
 ## What's working (Catalina 10.15.6 beta 19G46c):

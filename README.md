@@ -39,6 +39,6 @@ Somehow it's more stable with latest OC and latest Catalina, but it's still rand
 ## What's not working:
 
 1) DGPU is a no go, Radeon 535/540 is connected through Vega 8 to display, it has no connectors to HDMI or display at all. So, disable it in BIOS, if you have one (or make it disabled with SSDT patch)
-2) Touchpad is a no go too, because it's connected to AMD controller, while VoodooI2C has support only for Intel controllers. Until there is no support for AMD based laptops - there will be no support for touchpads for sure. 
+2) Touchpad is a no go too, because it's connected to AMD controller, while VoodooI2C has support only for Intel controllers. Until there is no support for AMD based laptops - there will be no support for touchpads for sure. If you have touchpad connected to PS2-Controller (use VoodooPS2Controller.kext) - that might work (MSI Alpha 15 touchpad is working ok)
 3) No brightness control = no graphics support
 4) HDMI

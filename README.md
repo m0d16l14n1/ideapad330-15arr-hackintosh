@@ -8,7 +8,7 @@ For experiments or fun only. Not stable. At all. Possible to use for other lapto
 
 If you have any fixes related to that laptop or any Ryzen laptops - you are welcome
 
-Currently possible to install High Sierra (not recommended), Mojave and latest Catalina (10.15.6 beta)
+Currently possible to install High Sierra (not recommended), Mojave and latest Catalina (10.15.7)
 Possible to install High Sierra and Mojave with Clover, Catalina is bootable only with OpenCore
 
 ![photo_2020-06-20_05-41-51](https://user-images.githubusercontent.com/38903713/85189609-28b70b80-b2b9-11ea-982b-f5473eabc9e1.jpg)

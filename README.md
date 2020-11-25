@@ -2,6 +2,8 @@
 
 # Still no Vega 8 support. 
 
+# I currently have no device to do more tests and researches. That repository is not up-to-date (old OC version/kexts). Please, update it's on your own, and if you want to install Big Sur and have the same laptop you gonna have problem with SATA. You need to load AHCIPort.kext from Catalina / You can find the kext and guide at Dortania. Also USB problem is a pain in ass. I got the rid of it using itwln.kext. I got many problems with it too, but the kext in that repository seems to work good and somehow stabilize issue with usb ports too (i got not so many stucks on booting with that kext). 
+
 For experiments or fun only. Not stable. At all. Possible to use for other laptops with same Ryzen 2500u/Vega 8  configuration
 
 If you have any fixes related to that laptop or any Ryzen laptops - you are welcome
@@ -11,7 +13,7 @@ Possible to install High Sierra and Mojave with Clover, Catalina is bootable onl
 
 ![photo_2020-06-20_05-41-51](https://user-images.githubusercontent.com/38903713/85189609-28b70b80-b2b9-11ea-982b-f5473eabc9e1.jpg)
 
-## What's working (Catalina 10.15.6 beta 19G46c):
+## What's working (Catalina 10.15.7):
 
 1) Intel Bluetooth (Realtek WiFi+bluetooth card was replaced with Intel one)
 2) Intel WiFi (3165) - is working very stable with latest kext *itlwm* from @zxystd. Great work! 
